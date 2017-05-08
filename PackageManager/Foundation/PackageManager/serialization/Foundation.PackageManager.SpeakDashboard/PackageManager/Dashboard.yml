@@ -1,0 +1,79 @@
+﻿---
+ID: "fbe376b6-b18b-450f-b43b-49f4df11f0b1"
+Parent: "4e6da3e3-47f2-4c50-97c0-835da5cf657d"
+Template: "edcd9c45-92a3-43a0-a8de-cab75ba84038"
+Path: /sitecore/client/Applications/PackageManager/Dashboard
+DB: core
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
+        <r
+          id="{DAFAFFB8-74AF-4141-A96A-70B16834CEC6}"
+          ph="Page.Code"
+          uid="{8AF761E9-31B2-4E53-BADC-D42F1072A8AA}" />
+        <r
+          id="{BE007891-2D9C-4E67-943C-752DBA0C041F}"
+          ph="Page.Body"
+          uid="{F816C65E-2037-47DF-A784-0CEF776B2F02}" />
+        <r
+          id="{5AE97C0C-EE88-4564-A363-4FA11C01C90A}"
+          ph="GlobalHeader"
+          uid="{9DF4D46C-5F25-43F5-A255-218F10ED254E}" />
+        <r
+          id="{7A69C522-7E99-4630-A25A-5D571505862A}"
+          par="Id=GlobalLogo"
+          ph="GlobalHeader.StartButton"
+          uid="{230D1871-C242-43C0-9DA2-9F19C6A1010C}" />
+        <r
+          id="{EC86834B-890C-405C-BB36-CA25044909E1}"
+          ph="GlobalFooter"
+          uid="{51D999D0-28C3-4462-BF74-0938593467AA}" />
+        <r
+          id="{93CEEFCD-2DE1-40AF-AE9A-EBBFBCCC522F}"
+          ph="ApplicationHeader"
+          uid="{5483F480-77D1-4153-BA7F-51C24ED167C5}" />
+        <r
+          id="{2EE499CD-439A-4F10-B81F-36A54CAC01DB}"
+          par="Id=AccountInformation1"
+          ph="ApplicationHeader"
+          uid="{F4FA902D-7C6D-405C-B65D-6FA6428E46EE}" />
+        <r
+          id="{AF79ED5D-4396-4EEC-8E22-9D7C523266FA}"
+          par="Id=Breadcrumb1"
+          ph="ApplicationHeader"
+          uid="{83B4CE84-7F73-4D50-BABC-B106966258B7}" />
+        <r
+          id="{7717EB6C-9F90-4C58-826D-5E87722A0318}"
+          par="Id=txtHeaderTitle&amp;Text=Here"
+          ph="ApplicationHeader.Title"
+          uid="{C3A72FF6-5C0E-406D-97BE-070D31C6C5EA}" />
+        <r
+          id="{7C65059F-B991-4022-A461-DD5161822DCF}"
+          ph="ApplicationContent"
+          uid="{C293F216-58A3-4555-B6B1-D0447403E24C}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170507T195432Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7205a57f-93b4-413a-aa9a-6b16bbc59565"
+      Hint: BrowserTitle
+      Value: Dashboard

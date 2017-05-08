@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PackageManager/.vs/config/applicationhost.config
+/PackageManager/.vs/PackageManager/v15
+/PackageManager/Foundation/PackageManager/src/Master.Foundation.PackageManager/bin
+/PackageManager/Foundation/PackageManager/src/Master.Foundation.PackageManager/obj
+/PackageManager/Foundation/Serialization/src/Master.Foundation.Serialization/bin
+/PackageManager/Foundation/Serialization/src/Master.Foundation.Serialization/obj
+/PackageManager/node_modules
+/PackageManager/packages
